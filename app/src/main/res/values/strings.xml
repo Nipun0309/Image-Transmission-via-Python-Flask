@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Images to Python Flask Server</string>
+    <string name="ipv4_address">IPv4 Address</string>
+    <string name="_192_168_1_8">192.168.1.8</string>
+    <string name="port_number">Port Number</string>
+    <string name="_5000">5000</string>
+    <string name="connect_to_server">Connect to Server</string>
+    <string name="message_from_the_server">Message from the Server …</string>
+</resources>
